@@ -1,6 +1,7 @@
 # sudoku-solver
 Simple Java Sudoku Solver
 
+```
   8  9  4 |  1  3  5 |  6  7  2
   5  2  7 |  9  4  6 |  8  3  1
   1  6  3 |  7  2  8 |  5  4  9
@@ -12,3 +13,4 @@ Simple Java Sudoku Solver
   7  3  8 |  2  6  9 |  4  1  5
   2  4  9 |  5  8  1 |  7  6  3
   6  5  1 |  4  7  3 |  9  2  8
+```
